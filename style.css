@@ -31,9 +31,10 @@ body {
   color: var(--color-font);
   background: var(--background) no-repeat top center/cover;
 }
+
 .container {
-  width: 360px;
-  margin: auto;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
 }
@@ -91,35 +92,34 @@ body {
 
 /*LINKS*/
 
-.container ul{
+ul {
   list-style-type: none;
   text-align: center;
   display: flex;
   flex-direction: column;
   padding: 24px 0;
+  gap: 16px;
 }
 
-.container ul li {
-  margin: 24px 0;
-  width: auto;
+ul li {
+  border: 1px solid var(--borda-botao);
+  background-color: var(--bground-botao); 
+  border-radius: 8px;
+  backdrop-filter: blur(4px);
+  transition: background-color .5s;
+  padding: 1em;
 }
 
-.container ul li a{
+ul a{
   font-weight: 500;
   text-transform: uppercase;
   text-decoration: none;
   color: var(--color-font);
   justify-content: center;
   align-items: center;
-  border: 1px solid var(--borda-botao);
-  background-color: var(--bground-botao); 
-  border-radius: 8px;
-  backdrop-filter: blur(4px);
-  transition: background-color .5s;
-  padding: 1em 6em;
 }
 
-.container ul li a:hover{ 
+ul li:hover{ 
   background-color: var(--bground-botao-hover);
   border: 1.5px solid var(--color-font);
 } 
