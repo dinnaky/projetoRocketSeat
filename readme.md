@@ -18,3 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 - O LinksDev é uma página com links a serem ultilizados.
+
+## LINK 
+
+https://app.rocketseat.com.br/discover
