@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src=".github/preview.jpg" alt="projeto DevLinks">
+  <img src=".github/preview.gif" alt="projeto DevLinks">
 </p>
 
-## 🚀 Tecnologias 
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -19,6 +19,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - O LinksDev é uma página com links a serem ultilizados.
 
-## LINK 
+## LINK
 
 https://app.rocketseat.com.br/discover
