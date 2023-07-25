@@ -12,7 +12,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e css
+- HTML e CSS
 - JavaScript
 
 ## 💻 Projeto
